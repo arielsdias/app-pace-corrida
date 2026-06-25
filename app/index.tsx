@@ -56,7 +56,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.titulo}>Calculadora de Pace</Text>
+      <Text style={styles.titulo}>Calculadora de Pace do Corredor</Text>
 
       <Text style={styles.subtitulo}>
         Informe a distância e o tempo total da corrida.
